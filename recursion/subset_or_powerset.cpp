@@ -18,7 +18,7 @@ void powerSet(vector <int> input  , vector <vector <int>> &output , vector <int>
 
 
 
-}
+} 
 
 int main() {
 
