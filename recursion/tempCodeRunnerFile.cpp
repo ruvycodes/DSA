@@ -1,2 +1,3 @@
-swap(arr[low] , arr[j]);
-    // return j;
+for(int i=0; i<ans.size();i++) {
+        cout<<ans[i]<<endl;
+    }
