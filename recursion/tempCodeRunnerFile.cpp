@@ -1,3 +1,5 @@
-for(int i=0; i<ans.size();i++) {
-        cout<<ans[i]<<endl;
+ //left
+    if(check(x , y-1 , maze , rat_visited)) {
+        ans.push_back("l");
+        getPath(maze , rat_visited , ans , x , y-1);
     }
